@@ -12,3 +12,5 @@ The spreadsheets are contained inside `/spreadsheets`. Most of them have charts,
 * **questionnaire computations.xlsx**: it contains the answers for all questionnaire answers. it has three tabs: _Raw_ (raw data), _Statistics_ (which has the statistics according to every assertion and combined--- used for the results of the CDN dimensions), and _Chart_ (used to generated the chart based on data of Statistics tab).
 * **satisfaction.xlsx**: used to evaluate the satisfaction level which was included in the questionnaire form.
 * **task completeness.xlsx**: it was used to measure the task completeness.
+
+## Metrics' Results
