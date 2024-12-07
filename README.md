@@ -20,4 +20,5 @@ The `/metrics-results` folder contain the results of every calculated metric for
 The folder `/task-codes` contains the source codes produced by the participants of the study. They are organized according to the explored APIs (i.e., Bacon.js and RxJS) and further grouped by the tasks (e.g., task 1 or task 2).
 > The frequency of the operators was computed by using a simple script that leverages the [ESQuery](https://github.com/estools/esquery) library. More information about the script can be found in the folder [`/operators-frequency`](https://github.com/carloszimm/reactiveusability24/tree/main/operators-frequency).
 
-## Atlas.ti codebook
+## Codebook - Citations
+To protect the participants' privacy, we cann't disclosure the full interviews' transcriptions. Instead, inside folder `/citations - atlasti`, one can find the spreadsheet file `codebook-citations.xlsx` that contains all the citations we codified (codes are displayed following the pattern category:code).
