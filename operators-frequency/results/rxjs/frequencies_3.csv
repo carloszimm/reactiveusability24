@@ -1,0 +1,16 @@
+﻿Operator;Frequency
+subscribe;14
+map;11
+interval;10
+concatMap;7
+from;6
+delay;3
+of;2
+mergeMap;2
+take;2
+range;1
+timer;1
+switchMap;1
+concatAll;1
+timeout;1
+publish;1

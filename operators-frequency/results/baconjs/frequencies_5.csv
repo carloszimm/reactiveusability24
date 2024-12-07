@@ -1,0 +1,15 @@
+﻿Operator;Frequency
+map;8
+fromPoll;6
+fromPromise;5
+onValue;4
+flatMap;3
+slidingWindow;2
+doAction;2
+mergeAll;2
+take;2
+subscribe;1
+flatMapLatest;1
+interval;1
+bufferWithCount;1
+filter;1

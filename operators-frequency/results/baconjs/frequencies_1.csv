@@ -1,0 +1,15 @@
+﻿Operator;Frequency
+fromPromise;6
+onValue;3
+flatMap;3
+sequentially;2
+log;2
+repeat;2
+flatMapConcat;1
+delay;1
+flatMapLatest;1
+take;1
+interval;1
+map;1
+bufferingThrottle;1
+once;1
