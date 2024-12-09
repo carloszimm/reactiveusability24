@@ -3,6 +3,29 @@
 This repository contains scripts and supporting materials used for the article submitted to the [Software: Practice and Experience](https://onlinelibrary.wiley.com/journal/1097024x) Journal.
 The majority of the results were generated with the help of spreadsheets (e.g., questionnarie reponses, satisfaction, metric analysis, etc.), Atlas.ti 9 (qualitative analysis), and a JS script to compute the operators' frequencies.
 
+Throughout the files we use either **P** or **Q** followed by a number to denote participants (**Q** indicates a participant that answered the questionnaire; **P** denotes a participant in general that not necessarily coorperate with the questionnaire). The following table highlights the mapping, including the participant's API and semester.
+
+P# | Q# | API | Semester
+--- | --- | --- | ---
+P1 | Q1 | Bacon.js | 2022.2
+P2 | - | RxJS | 2022.2
+P3 | Q2 | RxJS | 2022.2
+P4 | Q3 | RxJS | 2022.2
+P5 | Q4 | Bacon.js | 2022.2
+P6 | Q5 | RxJS | 2022.2
+P7 | - | RxJS | 2022.2
+P8 | Q6 | Bacon.js | 2022.2
+P9 | Q7 | RxJS | 2022.2
+P10 | Q8 | RxJS | 2022.2
+P11 | Q9 | RxJS | 2022.2
+P12 | Q10 | Bacon.js | 2023.1
+P13 | Q11 | RxJS | 2023.1
+P14 | Q12 | RxJS | 2023.1
+P15 | - | RxJS | 2023.1
+P16 | - | RxJS | 2023.2
+P17 | - | RxJS | 2023.2
+P18 | - | Bacon.js | 2023.2
+
 ## Spreadsheets
 
 The spreadsheets are contained inside `/spreadsheets`. Most of them have charts, since we use their capabilities to plot the charts used as figures in the article. Many of them will have tabs to separate and facilitate the processing of each API used (i.e., Bacon.js and RxJS).
